@@ -4,7 +4,7 @@ A responsive and interactive stopwatch web application built with **HTML**, **CS
 Includes **Start**, **Stop**, **Reset**, and **Lap** features.
 
  Live Demo
-[View Live Project](https://your-netlify-link.netlify.app)  
+[View Live Project](https://scr-wd-2-stopwatch.netlify.app/)  
 
 📌 Features
 - ⏱ **Start/Stop**: Begin or pause the timer.
@@ -24,4 +24,5 @@ Includes **Start**, **Stop**, **Reset**, and **Lap** features.
 └── README.md # Project documentation
  
 sCREENSHOT
+
 ![alt text](<Screenshot (101)-1.png>)
